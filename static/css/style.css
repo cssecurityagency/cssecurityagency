@@ -456,15 +456,14 @@ input.gn-search:focus {
 }
 
 #intro{	
-	background-image: url(../img/logo.jpg);
+	background-image: url(../img/Logo.jpg);
 	background-size: cover;
 }
 
 .intro .slogan {
 	padding:250px 0 60px;
 	text-align: center;
-	background-image: url(../img/logo.jpg);
-	background-size: cover;
+	
 }
 .intro .slogan h1 {
 	color: #fff;
@@ -689,13 +688,14 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 ============================ */
 
 footer {
-	text-align: center;
+	text-align: right;
 	padding: 50px 0 ;
-	
+	background-color: #990000;
 }
 
 footer p {
-	color: #f8f8f8;
+	color: #DAA520;
+	font-weight: bold;
 }
 
 footer a {
