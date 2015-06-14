@@ -456,8 +456,8 @@ input.gn-search:focus {
 }
 
 #intro{	
-	background-image: url(../img/Logo.jpg);
-	background-size: cover;
+	background-image: url(../img/Logo.jpg); no-repeat center top scroll;
+	background-size: 100% auto; 
 }
 
 .intro .slogan {
