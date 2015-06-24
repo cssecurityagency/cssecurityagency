@@ -461,10 +461,10 @@ input.gn-search:focus {
 }
 
 #intro{	
-	background-image: url(../img/Logo.jpg); 
-	background-size: 100% 100%;
-	/*background-size: contain;*/
+	background-image: url(../img/bg_image.jpg); 
 	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
 }
 
 .intro .slogan {
@@ -697,7 +697,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 footer {
 	text-align: right;
 	padding: 20px 0 ;
-	background-color: #990000;
+	background-color: gold;
 }
 
 footer p {
