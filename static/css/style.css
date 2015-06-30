@@ -470,7 +470,7 @@ input.gn-search:focus {
 #intro{	
 	background-image: url(../img/bg_wallpaper.png); 
 	background-repeat: no-repeat;
-	background-size: cover;
+	/*background-size: cover;*/
 	background-attachment: fixed;
 	background-position: center;
 }
