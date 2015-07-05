@@ -469,7 +469,7 @@ input.gn-search:focus {
 
 #intro{	
 	background-image: url(../img/intro_bg.jpg) no-repeat center center fixed; 
-	/*background-size: cover;*/
+	background-size: cover;
 	
 
 }
