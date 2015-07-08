@@ -757,8 +757,10 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 footer {
 	text-align: right;
 	padding: 20px;
-	background-color: #DAA520;
+	/*background-color: #DAA520;*/
 }
+
+#footer
 
 footer p {
 	color: #990000;
