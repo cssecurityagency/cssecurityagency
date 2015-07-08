@@ -68,6 +68,11 @@ html {
     height: 100%;
 }
 
+li.list_color{
+	color: #990000;
+	font-weight: bold;
+}
+
 h1,
 h2,
 h3,
@@ -751,17 +756,17 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 
 footer {
 	text-align: right;
-	padding: 20px 0 ;
-	background-color: gold;
+	padding: 20px;
+	background-color: #DAA520;
 }
 
 footer p {
-	color: #DAA520;
+	color: #990000;
 	font-weight: bold;
 }
 
 footer a {
-	color: #DAA520;
+	color: #990000;
 }
 
 footer a:hover {
