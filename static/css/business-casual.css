@@ -29,6 +29,9 @@ h2.lgwriting{
     font-size: 200%
  }
 
+i{
+    text-align: center;
+}
 p {
     font-size: 1.25em;
     line-height: 1.6;
